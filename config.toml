@@ -24,12 +24,7 @@ hermit_menu = [
 
 ]
 
-hermit_social = [
-    { name = "www", link = "https://lnbits.com/" },
-    { name = "github", link = "https://github.com/lnbits/lnbits" },
-    { name = "twitter_x", link = "https://x.com/lnbits" },
-    { name = "youtube", link = "https://www.youtube.com/@lnbits9178" }
-]
+hermit_social = []
 
 
 
