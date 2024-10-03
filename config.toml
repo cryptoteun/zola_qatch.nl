@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://zola-qatch.nl.pages.dev"
+base_url = "https://qatch.nl"
 theme = "hermit_zola"
 title = "Qatch Testmanagement"
 # Whether to automatically compile all Sass files in the sass directory
